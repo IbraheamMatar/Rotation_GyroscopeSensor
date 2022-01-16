@@ -1,0 +1,2 @@
+rootProject.name='Rotation_Gyroscope Sensor'
+include ':app'
